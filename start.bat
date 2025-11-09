@@ -1,4 +1,4 @@
-@echo of
+@echo off
 
 if not "%1" == "max" (
     start /MAX cmd /c "%~f0" max
