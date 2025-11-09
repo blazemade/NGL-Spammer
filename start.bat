@@ -6,5 +6,5 @@ if not "%1" == "max" (
 )
 
 python NGL_spammer.py
-
+pause
 
